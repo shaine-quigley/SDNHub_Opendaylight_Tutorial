@@ -23,10 +23,11 @@
           <artifactId>tapapp-model</artifactId>
           <version>${tapapp.version}</version>
       </dependency>
+    <!-- Dependencies for MD-SAL models -->
       <dependency>
           <groupId>org.opendaylight.openflowplugin.model</groupId>
           <artifactId>model-flow-service</artifactId>
-          <version>${openflowplugin.version}</version>
+          <version>0.1.0-SNAPSHOT</version>
       </dependency>
   </dependencies>
   <build>
@@ -66,9 +67,9 @@
        </executions>
        <dependencies>
          <dependency>
-           <groupId>org.opendaylight.mdsal</groupId>
+           <groupId>org.opendaylight.yangtools</groupId>
            <artifactId>maven-sal-api-gen-plugin</artifactId>
-           <version>${maven-sal-api-gen-plugin.version}</version>
+           <version>${yangtools.version}</version>
            <type>jar</type>
          </dependency>
          <dependency>
