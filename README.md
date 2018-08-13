@@ -1,6 +1,6 @@
 SDNHub Opendaylight Tutorial
 ============================
-This is the OpenDaylight project source code used by the tutorial provided by the team over at OpenDaylight ([link](http://sdnhub.org/tutorials/opendaylight/)).
+This is a fork of the OpenDaylight project source code used by the tutorial provided by the team over at OpenDaylight ([link](http://sdnhub.org/tutorials/opendaylight/)). I've already started with the tutorial, and have uploaded my current code over the fork of the original. Forking the code is mostly to provide credit to the original creators. 
 
 The following is from the original README:
 # Directory Organization
