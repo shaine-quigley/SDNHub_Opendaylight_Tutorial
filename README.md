@@ -1,7 +1,8 @@
 SDNHub Opendaylight Tutorial
 ============================
-This is the OpenDaylight project source code used by the [our tutorial](http://sdnhub.org/tutorials/opendaylight/).
+This is the OpenDaylight project source code used by the tutorial provided by the team over at OpenDaylight ([link](http://sdnhub.org/tutorials/opendaylight/)).
 
+The following is from the original README:
 # Directory Organization
 * pom.xml: The POM in the main directory specifies all the sub-POMs to build
 * commons/parent: contains the parent pom.xml with all properties defined for the subprojects.
